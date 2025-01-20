@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there :)
+
+😄 Pronouns: he/him
+🌱 I’m currently figuring out github!!!!
+
 
 <!--
 **AvineeshS/AvineeshS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
