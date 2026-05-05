@@ -1,7 +1,5 @@
-## Hi there :)
+## Hi there
 
-😄 Pronouns: he/him
-🌱 I’m currently figuring out github!!!!
 
 
 <!--
